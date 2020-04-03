@@ -37,6 +37,10 @@ a {
   color: #EAF6F6;
 }
 
+.skills-link {
+  color: #1C6EA4;
+}
+
 .skills-link:hover {
   color: #00CED1;
 }
@@ -135,7 +139,7 @@ hr {
    border-radius: 8px;
    color: #FFFFFF;
    font-family: Open Sans;
-   font-size: 20px;
+   font-size: 4rem;
    padding: 10px 20px 10px 20px;
    box-shadow: 1px 1px 20px 0px #000000;
    -webkit-box-shadow: 1px 1px 20px 0px #000000;
