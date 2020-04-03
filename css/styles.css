@@ -46,9 +46,9 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #EAF6F6 18px;
   border-bottom: none;
-  width: 4%;
+  width: 12%;
   margin: 100px auto;
 }
 
