@@ -53,6 +53,13 @@ hr {
   border: dotted #EAF6F6 18px;
   border-bottom: none;
   width: 12%;
+}
+
+.profile-skills-line {
+  margin: 100px auto;
+}
+
+.skills-contact-line {
   margin: 200px auto 100px auto;
 }
 
