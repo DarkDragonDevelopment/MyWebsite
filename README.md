@@ -1,3 +1,3 @@
 # MyWebsite
 
-https://kenthekool88.github.io/MyWebsite/
+https://kenthecoder88.github.io/MyWebsite/
